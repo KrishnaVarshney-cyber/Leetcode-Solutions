@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0038-count-and-say](https://github.com/KrishnaVarshney-cyber/Leetcode-Solutions/tree/master/0038-count-and-say) |
 | [0856-score-of-parentheses](https://github.com/KrishnaVarshney-cyber/Leetcode-Solutions/tree/master/0856-score-of-parentheses) |
 ## Stack
 |  |
