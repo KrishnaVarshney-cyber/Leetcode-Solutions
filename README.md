@@ -34,14 +34,17 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0038-count-and-say](https://github.com/KrishnaVarshney-cyber/Leetcode-Solutions/tree/master/0038-count-and-say) |
 | [0856-score-of-parentheses](https://github.com/KrishnaVarshney-cyber/Leetcode-Solutions/tree/master/0856-score-of-parentheses) |
+| [1021-remove-outermost-parentheses](https://github.com/KrishnaVarshney-cyber/Leetcode-Solutions/tree/master/1021-remove-outermost-parentheses) |
 ## Stack
 |  |
 | ------- |
 | [0856-score-of-parentheses](https://github.com/KrishnaVarshney-cyber/Leetcode-Solutions/tree/master/0856-score-of-parentheses) |
+| [1021-remove-outermost-parentheses](https://github.com/KrishnaVarshney-cyber/Leetcode-Solutions/tree/master/1021-remove-outermost-parentheses) |
 ## Bracket Sequences
 |  |
 | ------- |
 | [0856-score-of-parentheses](https://github.com/KrishnaVarshney-cyber/Leetcode-Solutions/tree/master/0856-score-of-parentheses) |
+| [1021-remove-outermost-parentheses](https://github.com/KrishnaVarshney-cyber/Leetcode-Solutions/tree/master/1021-remove-outermost-parentheses) |
 ## Breadth-First Search
 |  |
 | ------- |
