@@ -42,16 +42,19 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0038-count-and-say](https://github.com/KrishnaVarshney-cyber/Leetcode-Solutions/tree/master/0038-count-and-say) |
 | [0856-score-of-parentheses](https://github.com/KrishnaVarshney-cyber/Leetcode-Solutions/tree/master/0856-score-of-parentheses) |
 | [1021-remove-outermost-parentheses](https://github.com/KrishnaVarshney-cyber/Leetcode-Solutions/tree/master/1021-remove-outermost-parentheses) |
+| [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/KrishnaVarshney-cyber/Leetcode-Solutions/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 ## Stack
 |  |
 | ------- |
 | [0856-score-of-parentheses](https://github.com/KrishnaVarshney-cyber/Leetcode-Solutions/tree/master/0856-score-of-parentheses) |
 | [1021-remove-outermost-parentheses](https://github.com/KrishnaVarshney-cyber/Leetcode-Solutions/tree/master/1021-remove-outermost-parentheses) |
+| [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/KrishnaVarshney-cyber/Leetcode-Solutions/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 ## Bracket Sequences
 |  |
 | ------- |
 | [0856-score-of-parentheses](https://github.com/KrishnaVarshney-cyber/Leetcode-Solutions/tree/master/0856-score-of-parentheses) |
 | [1021-remove-outermost-parentheses](https://github.com/KrishnaVarshney-cyber/Leetcode-Solutions/tree/master/1021-remove-outermost-parentheses) |
+| [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/KrishnaVarshney-cyber/Leetcode-Solutions/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -65,4 +68,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0494-target-sum](https://github.com/KrishnaVarshney-cyber/Leetcode-Solutions/tree/master/0494-target-sum) |
+## Greedy
+|  |
+| ------- |
+| [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/KrishnaVarshney-cyber/Leetcode-Solutions/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 <!---LeetCode Topics End-->
