@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0518-coin-change-ii](https://github.com/KrishnaVarshney-cyber/Leetcode-Solutions/tree/master/0518-coin-change-ii) |
 | [1049-last-stone-weight-ii](https://github.com/KrishnaVarshney-cyber/Leetcode-Solutions/tree/master/1049-last-stone-weight-ii) |
 | [2740-find-the-value-of-the-partition](https://github.com/KrishnaVarshney-cyber/Leetcode-Solutions/tree/master/2740-find-the-value-of-the-partition) |
+| [2778-sum-of-squares-of-special-elements](https://github.com/KrishnaVarshney-cyber/Leetcode-Solutions/tree/master/2778-sum-of-squares-of-special-elements) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -78,4 +79,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1143-longest-common-subsequence](https://github.com/KrishnaVarshney-cyber/Leetcode-Solutions/tree/master/1143-longest-common-subsequence) |
+## Enumeration
+|  |
+| ------- |
+| [2778-sum-of-squares-of-special-elements](https://github.com/KrishnaVarshney-cyber/Leetcode-Solutions/tree/master/2778-sum-of-squares-of-special-elements) |
 <!---LeetCode Topics End-->
