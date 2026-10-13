@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1021-remove-outermost-parentheses](https://github.com/KrishnaVarshney-cyber/Leetcode-Solutions/tree/master/1021-remove-outermost-parentheses) |
 | [1143-longest-common-subsequence](https://github.com/KrishnaVarshney-cyber/Leetcode-Solutions/tree/master/1143-longest-common-subsequence) |
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/KrishnaVarshney-cyber/Leetcode-Solutions/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
+| [1374-generate-a-string-with-characters-that-have-odd-counts](https://github.com/KrishnaVarshney-cyber/Leetcode-Solutions/tree/master/1374-generate-a-string-with-characters-that-have-odd-counts) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/KrishnaVarshney-cyber/Leetcode-Solutions/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 ## Stack
 |  |
