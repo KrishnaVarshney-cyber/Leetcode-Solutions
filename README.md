@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/KrishnaVarshney-cyber/Leetcode-Solutions/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1374-generate-a-string-with-characters-that-have-odd-counts](https://github.com/KrishnaVarshney-cyber/Leetcode-Solutions/tree/master/1374-generate-a-string-with-characters-that-have-odd-counts) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/KrishnaVarshney-cyber/Leetcode-Solutions/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
+| [2325-decode-the-message](https://github.com/KrishnaVarshney-cyber/Leetcode-Solutions/tree/master/2325-decode-the-message) |
 ## Stack
 |  |
 | ------- |
@@ -104,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [2325-decode-the-message](https://github.com/KrishnaVarshney-cyber/Leetcode-Solutions/tree/master/2325-decode-the-message) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/KrishnaVarshney-cyber/Leetcode-Solutions/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 ## Binary Indexed Tree
 |  |
