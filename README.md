@@ -101,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [2177-find-three-consecutive-integers-that-sum-to-a-given-number](https://github.com/KrishnaVarshney-cyber/Leetcode-Solutions/tree/master/2177-find-three-consecutive-integers-that-sum-to-a-given-number) |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/KrishnaVarshney-cyber/Leetcode-Solutions/tree/master/3723-maximize-sum-of-squares-of-digits) |
 ## Hash Table
 |  |
@@ -115,4 +116,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/KrishnaVarshney-cyber/Leetcode-Solutions/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
+## Simulation
+|  |
+| ------- |
+| [2177-find-three-consecutive-integers-that-sum-to-a-given-number](https://github.com/KrishnaVarshney-cyber/Leetcode-Solutions/tree/master/2177-find-three-consecutive-integers-that-sum-to-a-given-number) |
 <!---LeetCode Topics End-->
