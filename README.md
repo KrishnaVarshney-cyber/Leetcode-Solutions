@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2740-find-the-value-of-the-partition](https://github.com/KrishnaVarshney-cyber/Leetcode-Solutions/tree/master/2740-find-the-value-of-the-partition) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/KrishnaVarshney-cyber/Leetcode-Solutions/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/KrishnaVarshney-cyber/Leetcode-Solutions/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
+| [3392-count-subarrays-of-length-three-with-a-condition](https://github.com/KrishnaVarshney-cyber/Leetcode-Solutions/tree/master/3392-count-subarrays-of-length-three-with-a-condition) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/KrishnaVarshney-cyber/Leetcode-Solutions/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Dynamic Programming
 |  |
