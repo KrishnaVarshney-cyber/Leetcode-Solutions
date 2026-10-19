@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0494-target-sum](https://github.com/KrishnaVarshney-cyber/Leetcode-Solutions/tree/master/0494-target-sum) |
 | [0518-coin-change-ii](https://github.com/KrishnaVarshney-cyber/Leetcode-Solutions/tree/master/0518-coin-change-ii) |
 | [1049-last-stone-weight-ii](https://github.com/KrishnaVarshney-cyber/Leetcode-Solutions/tree/master/1049-last-stone-weight-ii) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/KrishnaVarshney-cyber/Leetcode-Solutions/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2176-count-equal-and-divisible-pairs-in-an-array](https://github.com/KrishnaVarshney-cyber/Leetcode-Solutions/tree/master/2176-count-equal-and-divisible-pairs-in-an-array) |
 | [2740-find-the-value-of-the-partition](https://github.com/KrishnaVarshney-cyber/Leetcode-Solutions/tree/master/2740-find-the-value-of-the-partition) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/KrishnaVarshney-cyber/Leetcode-Solutions/tree/master/2778-sum-of-squares-of-special-elements) |
@@ -45,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [2089-find-target-indices-after-sorting-array](https://github.com/KrishnaVarshney-cyber/Leetcode-Solutions/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2740-find-the-value-of-the-partition](https://github.com/KrishnaVarshney-cyber/Leetcode-Solutions/tree/master/2740-find-the-value-of-the-partition) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/KrishnaVarshney-cyber/Leetcode-Solutions/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## String
@@ -124,4 +126,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2177-find-three-consecutive-integers-that-sum-to-a-given-number](https://github.com/KrishnaVarshney-cyber/Leetcode-Solutions/tree/master/2177-find-three-consecutive-integers-that-sum-to-a-given-number) |
+## Binary Search
+|  |
+| ------- |
+| [2089-find-target-indices-after-sorting-array](https://github.com/KrishnaVarshney-cyber/Leetcode-Solutions/tree/master/2089-find-target-indices-after-sorting-array) |
 <!---LeetCode Topics End-->
