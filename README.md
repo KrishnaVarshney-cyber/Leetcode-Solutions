@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1374-generate-a-string-with-characters-that-have-odd-counts](https://github.com/KrishnaVarshney-cyber/Leetcode-Solutions/tree/master/1374-generate-a-string-with-characters-that-have-odd-counts) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/KrishnaVarshney-cyber/Leetcode-Solutions/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [2325-decode-the-message](https://github.com/KrishnaVarshney-cyber/Leetcode-Solutions/tree/master/2325-decode-the-message) |
+| [3863-minimum-operations-to-sort-a-string](https://github.com/KrishnaVarshney-cyber/Leetcode-Solutions/tree/master/3863-minimum-operations-to-sort-a-string) |
 ## Stack
 |  |
 | ------- |
