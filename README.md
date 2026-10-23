@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0044-wildcard-matching](https://github.com/KrishnaVarshney-cyber/Leetcode-Solutions/tree/master/0044-wildcard-matching) |
 | [0072-edit-distance](https://github.com/KrishnaVarshney-cyber/Leetcode-Solutions/tree/master/0072-edit-distance) |
 | [0115-distinct-subsequences](https://github.com/KrishnaVarshney-cyber/Leetcode-Solutions/tree/master/0115-distinct-subsequences) |
 | [0322-coin-change](https://github.com/KrishnaVarshney-cyber/Leetcode-Solutions/tree/master/0322-coin-change) |
@@ -55,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0038-count-and-say](https://github.com/KrishnaVarshney-cyber/Leetcode-Solutions/tree/master/0038-count-and-say) |
+| [0044-wildcard-matching](https://github.com/KrishnaVarshney-cyber/Leetcode-Solutions/tree/master/0044-wildcard-matching) |
 | [0072-edit-distance](https://github.com/KrishnaVarshney-cyber/Leetcode-Solutions/tree/master/0072-edit-distance) |
 | [0115-distinct-subsequences](https://github.com/KrishnaVarshney-cyber/Leetcode-Solutions/tree/master/0115-distinct-subsequences) |
 | [0516-longest-palindromic-subsequence](https://github.com/KrishnaVarshney-cyber/Leetcode-Solutions/tree/master/0516-longest-palindromic-subsequence) |
@@ -96,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0044-wildcard-matching](https://github.com/KrishnaVarshney-cyber/Leetcode-Solutions/tree/master/0044-wildcard-matching) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/KrishnaVarshney-cyber/Leetcode-Solutions/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/KrishnaVarshney-cyber/Leetcode-Solutions/tree/master/3723-maximize-sum-of-squares-of-digits) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/KrishnaVarshney-cyber/Leetcode-Solutions/tree/master/3727-maximum-alternating-sum-of-squares) |
@@ -135,4 +138,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2089-find-target-indices-after-sorting-array](https://github.com/KrishnaVarshney-cyber/Leetcode-Solutions/tree/master/2089-find-target-indices-after-sorting-array) |
+## Recursion
+|  |
+| ------- |
+| [0044-wildcard-matching](https://github.com/KrishnaVarshney-cyber/Leetcode-Solutions/tree/master/0044-wildcard-matching) |
 <!---LeetCode Topics End-->
