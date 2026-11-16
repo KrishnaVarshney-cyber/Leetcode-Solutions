@@ -72,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/KrishnaVarshney-cyber/Leetcode-Solutions/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1374-generate-a-string-with-characters-that-have-odd-counts](https://github.com/KrishnaVarshney-cyber/Leetcode-Solutions/tree/master/1374-generate-a-string-with-characters-that-have-odd-counts) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/KrishnaVarshney-cyber/Leetcode-Solutions/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
+| [2243-calculate-digit-sum-of-a-string](https://github.com/KrishnaVarshney-cyber/Leetcode-Solutions/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [2325-decode-the-message](https://github.com/KrishnaVarshney-cyber/Leetcode-Solutions/tree/master/2325-decode-the-message) |
 | [3863-minimum-operations-to-sort-a-string](https://github.com/KrishnaVarshney-cyber/Leetcode-Solutions/tree/master/3863-minimum-operations-to-sort-a-string) |
 ## Stack
@@ -141,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2177-find-three-consecutive-integers-that-sum-to-a-given-number](https://github.com/KrishnaVarshney-cyber/Leetcode-Solutions/tree/master/2177-find-three-consecutive-integers-that-sum-to-a-given-number) |
+| [2243-calculate-digit-sum-of-a-string](https://github.com/KrishnaVarshney-cyber/Leetcode-Solutions/tree/master/2243-calculate-digit-sum-of-a-string) |
 ## Binary Search
 |  |
 | ------- |
