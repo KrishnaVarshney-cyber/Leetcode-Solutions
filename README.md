@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0494-target-sum](https://github.com/KrishnaVarshney-cyber/Leetcode-Solutions/tree/master/0494-target-sum) |
 | [0518-coin-change-ii](https://github.com/KrishnaVarshney-cyber/Leetcode-Solutions/tree/master/0518-coin-change-ii) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/KrishnaVarshney-cyber/Leetcode-Solutions/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
+| [1048-longest-string-chain](https://github.com/KrishnaVarshney-cyber/Leetcode-Solutions/tree/master/1048-longest-string-chain) |
 | [1049-last-stone-weight-ii](https://github.com/KrishnaVarshney-cyber/Leetcode-Solutions/tree/master/1049-last-stone-weight-ii) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/KrishnaVarshney-cyber/Leetcode-Solutions/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/KrishnaVarshney-cyber/Leetcode-Solutions/tree/master/2089-find-target-indices-after-sorting-array) |
@@ -44,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0518-coin-change-ii](https://github.com/KrishnaVarshney-cyber/Leetcode-Solutions/tree/master/0518-coin-change-ii) |
 | [0583-delete-operation-for-two-strings](https://github.com/KrishnaVarshney-cyber/Leetcode-Solutions/tree/master/0583-delete-operation-for-two-strings) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/KrishnaVarshney-cyber/Leetcode-Solutions/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
+| [1048-longest-string-chain](https://github.com/KrishnaVarshney-cyber/Leetcode-Solutions/tree/master/1048-longest-string-chain) |
 | [1049-last-stone-weight-ii](https://github.com/KrishnaVarshney-cyber/Leetcode-Solutions/tree/master/1049-last-stone-weight-ii) |
 | [1092-shortest-common-supersequence](https://github.com/KrishnaVarshney-cyber/Leetcode-Solutions/tree/master/1092-shortest-common-supersequence) |
 | [1143-longest-common-subsequence](https://github.com/KrishnaVarshney-cyber/Leetcode-Solutions/tree/master/1143-longest-common-subsequence) |
@@ -66,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0368-largest-divisible-subset](https://github.com/KrishnaVarshney-cyber/Leetcode-Solutions/tree/master/0368-largest-divisible-subset) |
+| [1048-longest-string-chain](https://github.com/KrishnaVarshney-cyber/Leetcode-Solutions/tree/master/1048-longest-string-chain) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/KrishnaVarshney-cyber/Leetcode-Solutions/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/KrishnaVarshney-cyber/Leetcode-Solutions/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2740-find-the-value-of-the-partition](https://github.com/KrishnaVarshney-cyber/Leetcode-Solutions/tree/master/2740-find-the-value-of-the-partition) |
@@ -82,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0856-score-of-parentheses](https://github.com/KrishnaVarshney-cyber/Leetcode-Solutions/tree/master/0856-score-of-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/KrishnaVarshney-cyber/Leetcode-Solutions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1021-remove-outermost-parentheses](https://github.com/KrishnaVarshney-cyber/Leetcode-Solutions/tree/master/1021-remove-outermost-parentheses) |
+| [1048-longest-string-chain](https://github.com/KrishnaVarshney-cyber/Leetcode-Solutions/tree/master/1048-longest-string-chain) |
 | [1092-shortest-common-supersequence](https://github.com/KrishnaVarshney-cyber/Leetcode-Solutions/tree/master/1092-shortest-common-supersequence) |
 | [1143-longest-common-subsequence](https://github.com/KrishnaVarshney-cyber/Leetcode-Solutions/tree/master/1143-longest-common-subsequence) |
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/KrishnaVarshney-cyber/Leetcode-Solutions/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
@@ -147,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [1048-longest-string-chain](https://github.com/KrishnaVarshney-cyber/Leetcode-Solutions/tree/master/1048-longest-string-chain) |
 | [2325-decode-the-message](https://github.com/KrishnaVarshney-cyber/Leetcode-Solutions/tree/master/2325-decode-the-message) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/KrishnaVarshney-cyber/Leetcode-Solutions/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 ## Binary Indexed Tree
@@ -175,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [1048-longest-string-chain](https://github.com/KrishnaVarshney-cyber/Leetcode-Solutions/tree/master/1048-longest-string-chain) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/KrishnaVarshney-cyber/Leetcode-Solutions/tree/master/1385-find-the-distance-value-between-two-arrays) |
 ## Longest Increasing Subsequence
 |  |
