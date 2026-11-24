@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/KrishnaVarshney-cyber/Leetcode-Solutions/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/KrishnaVarshney-cyber/Leetcode-Solutions/tree/master/3105-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3392-count-subarrays-of-length-three-with-a-condition](https://github.com/KrishnaVarshney-cyber/Leetcode-Solutions/tree/master/3392-count-subarrays-of-length-three-with-a-condition) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/KrishnaVarshney-cyber/Leetcode-Solutions/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/KrishnaVarshney-cyber/Leetcode-Solutions/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Dynamic Programming
 |  |
@@ -144,11 +145,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2778-sum-of-squares-of-special-elements](https://github.com/KrishnaVarshney-cyber/Leetcode-Solutions/tree/master/2778-sum-of-squares-of-special-elements) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/KrishnaVarshney-cyber/Leetcode-Solutions/tree/master/3411-maximum-subarray-with-equal-products) |
 ## Math
 |  |
 | ------- |
 | [0368-largest-divisible-subset](https://github.com/KrishnaVarshney-cyber/Leetcode-Solutions/tree/master/0368-largest-divisible-subset) |
 | [2177-find-three-consecutive-integers-that-sum-to-a-given-number](https://github.com/KrishnaVarshney-cyber/Leetcode-Solutions/tree/master/2177-find-three-consecutive-integers-that-sum-to-a-given-number) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/KrishnaVarshney-cyber/Leetcode-Solutions/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/KrishnaVarshney-cyber/Leetcode-Solutions/tree/master/3723-maximize-sum-of-squares-of-digits) |
 ## Hash Table
 |  |
@@ -191,4 +194,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0300-longest-increasing-subsequence](https://github.com/KrishnaVarshney-cyber/Leetcode-Solutions/tree/master/0300-longest-increasing-subsequence) |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/KrishnaVarshney-cyber/Leetcode-Solutions/tree/master/0673-number-of-longest-increasing-subsequence) |
+## Sliding Window
+|  |
+| ------- |
+| [3411-maximum-subarray-with-equal-products](https://github.com/KrishnaVarshney-cyber/Leetcode-Solutions/tree/master/3411-maximum-subarray-with-equal-products) |
+## Number Theory
+|  |
+| ------- |
+| [3411-maximum-subarray-with-equal-products](https://github.com/KrishnaVarshney-cyber/Leetcode-Solutions/tree/master/3411-maximum-subarray-with-equal-products) |
 <!---LeetCode Topics End-->
