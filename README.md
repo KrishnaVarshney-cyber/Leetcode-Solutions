@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1048-longest-string-chain](https://github.com/KrishnaVarshney-cyber/Leetcode-Solutions/tree/master/1048-longest-string-chain) |
 | [1049-last-stone-weight-ii](https://github.com/KrishnaVarshney-cyber/Leetcode-Solutions/tree/master/1049-last-stone-weight-ii) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/KrishnaVarshney-cyber/Leetcode-Solutions/tree/master/1385-find-the-distance-value-between-two-arrays) |
+| [1547-minimum-cost-to-cut-a-stick](https://github.com/KrishnaVarshney-cyber/Leetcode-Solutions/tree/master/1547-minimum-cost-to-cut-a-stick) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/KrishnaVarshney-cyber/Leetcode-Solutions/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2176-count-equal-and-divisible-pairs-in-an-array](https://github.com/KrishnaVarshney-cyber/Leetcode-Solutions/tree/master/2176-count-equal-and-divisible-pairs-in-an-array) |
 | [2740-find-the-value-of-the-partition](https://github.com/KrishnaVarshney-cyber/Leetcode-Solutions/tree/master/2740-find-the-value-of-the-partition) |
@@ -53,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1092-shortest-common-supersequence](https://github.com/KrishnaVarshney-cyber/Leetcode-Solutions/tree/master/1092-shortest-common-supersequence) |
 | [1143-longest-common-subsequence](https://github.com/KrishnaVarshney-cyber/Leetcode-Solutions/tree/master/1143-longest-common-subsequence) |
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/KrishnaVarshney-cyber/Leetcode-Solutions/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
+| [1547-minimum-cost-to-cut-a-stick](https://github.com/KrishnaVarshney-cyber/Leetcode-Solutions/tree/master/1547-minimum-cost-to-cut-a-stick) |
 ## Knapsack Problem
 |  |
 | ------- |
@@ -73,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0368-largest-divisible-subset](https://github.com/KrishnaVarshney-cyber/Leetcode-Solutions/tree/master/0368-largest-divisible-subset) |
 | [1048-longest-string-chain](https://github.com/KrishnaVarshney-cyber/Leetcode-Solutions/tree/master/1048-longest-string-chain) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/KrishnaVarshney-cyber/Leetcode-Solutions/tree/master/1385-find-the-distance-value-between-two-arrays) |
+| [1547-minimum-cost-to-cut-a-stick](https://github.com/KrishnaVarshney-cyber/Leetcode-Solutions/tree/master/1547-minimum-cost-to-cut-a-stick) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/KrishnaVarshney-cyber/Leetcode-Solutions/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2740-find-the-value-of-the-partition](https://github.com/KrishnaVarshney-cyber/Leetcode-Solutions/tree/master/2740-find-the-value-of-the-partition) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/KrishnaVarshney-cyber/Leetcode-Solutions/tree/master/3727-maximum-alternating-sum-of-squares) |
