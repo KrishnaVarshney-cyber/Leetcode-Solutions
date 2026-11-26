@@ -151,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0368-largest-divisible-subset](https://github.com/KrishnaVarshney-cyber/Leetcode-Solutions/tree/master/0368-largest-divisible-subset) |
 | [2177-find-three-consecutive-integers-that-sum-to-a-given-number](https://github.com/KrishnaVarshney-cyber/Leetcode-Solutions/tree/master/2177-find-three-consecutive-integers-that-sum-to-a-given-number) |
+| [3360-stone-removal-game](https://github.com/KrishnaVarshney-cyber/Leetcode-Solutions/tree/master/3360-stone-removal-game) |
 | [3411-maximum-subarray-with-equal-products](https://github.com/KrishnaVarshney-cyber/Leetcode-Solutions/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/KrishnaVarshney-cyber/Leetcode-Solutions/tree/master/3723-maximize-sum-of-squares-of-digits) |
 ## Hash Table
@@ -174,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [2177-find-three-consecutive-integers-that-sum-to-a-given-number](https://github.com/KrishnaVarshney-cyber/Leetcode-Solutions/tree/master/2177-find-three-consecutive-integers-that-sum-to-a-given-number) |
 | [2243-calculate-digit-sum-of-a-string](https://github.com/KrishnaVarshney-cyber/Leetcode-Solutions/tree/master/2243-calculate-digit-sum-of-a-string) |
+| [3360-stone-removal-game](https://github.com/KrishnaVarshney-cyber/Leetcode-Solutions/tree/master/3360-stone-removal-game) |
 ## Binary Search
 |  |
 | ------- |
